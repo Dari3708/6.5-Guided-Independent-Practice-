@@ -1,0 +1,36 @@
+div{
+    display:flex;
+    justify-content:center;
+}
+
+img {
+width: 150px;  
+}
+
+h1 {
+ color: #eeffx00; 
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color:green;
+}
+
+h2 {
+  text-align: center;
+  color:#eeff00;
+}
+
+
+li {
+
+  color: #eeff00;
+}
+
+h1 {
+  border: 1ch;
+  border-style: dotted;
+}
